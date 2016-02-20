@@ -1,0 +1,150 @@
+nav {
+    position: fixed;
+    bottom: 97.50%;
+    
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: transparent;
+}
+
+li {
+    float: left;
+}
+
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:link, a:visited{
+		display:block;
+		font-weight:solid;
+		color:cyan;
+		background-color:#000000;
+		width:150px;
+		text-align:center;
+		padding:4px;
+		text-decoration:none;
+}
+li a:hover,a:active {
+    background-color: #ffffff ;
+    font-size: 1.2em;	
+    color: red;
+}
+
+#skip{
+    margin-top: 500px;
+}
+.skips{
+    margin-top: 350px;
+}
+#home{
+    font-size: 22px;
+    color: black;
+    font-family: serif;
+
+}
+#Objective{
+    font-size: 22px;
+    color: black;
+    font-family: serif;
+
+}
+#Experiences{
+    font-size: 16px;
+    color: black;
+    font-family: serif;
+
+}
+#Skills{
+    font-size: 16px;
+    color: black;
+    font-family: serif;
+}
+#Education{
+    font-size: 16px;
+    color: black;
+    font-family: serif;
+}
+#Extra Curriculum{
+    font-size: 16px;
+    color: black;
+    font-family: serif;
+}
+#Contact{
+    font-size: 16px;
+    color: black;
+    font-family: serif;
+}
+.boxOB{
+    border: 3px solid white;
+    background: #d3d3d3; 
+}
+.boxEX{
+    position: right;
+    margin-left: 50%;
+    border: 3px solid white;
+    background: #ffffff;
+}
+.boxSK{
+    position: right;
+    margin-left: 50%;
+    border: 3px solid white;
+    background: #CCCCCC;
+
+}
+.boxED{
+    position: right;
+    margin-left: 50%;
+    border: 3px solid white;
+    background: #ffffff;
+}
+.boxXTRA{
+    position: right;
+    margin-left: 50%;
+    border: 3px solid white;
+    background: #CCCCCC;
+}
+.boxContact{
+    position: right;
+    margin-left: 50%;
+    border: 3px solid white;
+    background: #ffffff;
+}
+.right{
+    text-align: right;
+    margin-right: 15%;
+}
+.alignleft{
+    position: absolute;
+    text-align: left;
+    margin-left: 2%;
+
+}
+p img {
+    width: 49%;
+    height: 30%;
+    position: absolute; 
+}
+a img { 
+    width: 10%;
+}
+
+.morespace{
+    margin-top: 75px;
+}
+.morespaceLTE{
+    margin-top: 50px;
+}
+.morespaceXtra{
+    margin-top: 150px;
+}

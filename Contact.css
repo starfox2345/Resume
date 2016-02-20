@@ -1,0 +1,53 @@
+
+
+
+table, td {
+	border: 1px #a3d1ff dashed;
+
+}
+
+ul	/* Apply to all unordered list*/
+		{
+		list-style-type:none;	/* Set list style type as none */
+		margin:0;				/* Set margin to 0 */
+		padding:0;				/* Set padding to 0 */
+		}
+
+a:link,a:visited	/* Apply to links and visited links*/
+		{
+
+		display:none;		/* Set links to appear within a block */
+		
+		color:yellow;		/* Set text color as yellow */
+		background-color: transparent;	/* Set the background color of links as black using color coding */
+		width:250px;		/* Set the width of the block that appears to surround the links */
+		text-align:center;	/* Put the text to center */
+		padding:4px;		/* This is like line spacing between the top & bottom */
+		text-decoration:none;	
+		text-transform:uppercase;	/* Set the text to all appear as upper case */
+		}
+a:hover,a:active	/* This applies to links that your cursor hover over */
+		{
+		background-color:red;	/* When hovering over links, red background will appear over original background color for links */
+		font-size: 1.2em;		/* When hovering over the links, this will make the text appear larger or smaller depending on the entered em size */
+		}
+	
+
+h1 {
+	color: #F62217;
+	text-align: center; 
+	background-color: black;
+	border-color: #FFFF00;
+	border-style: solid;
+}
+h2 {
+	text-align: center;
+	color: greens;
+}
+
+body p {
+	text-align: center;
+
+}
+
+
